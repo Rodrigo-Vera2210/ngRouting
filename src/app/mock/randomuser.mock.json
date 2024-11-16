@@ -1,0 +1,66 @@
+{
+    "results": [
+        {
+            "gender": "female",
+            "name": {
+                "title": "Ms",
+                "first": "Shona",
+                "last": "Mendonsa"
+            },
+            "location": {
+                "street": {
+                    "number": 1478,
+                    "name": "Gali Paranthe Wali"
+                },
+                "city": "Baranagar",
+                "state": "Telangana",
+                "country": "India",
+                "postcode": 67979,
+                "coordinates": {
+                    "latitude": "7.6657",
+                    "longitude": "134.8518"
+                },
+                "timezone": {
+                    "offset": "0:00",
+                    "description": "Western Europe Time, London, Lisbon, Casablanca"
+                }
+            },
+            "email": "shona.mendonsa@example.com",
+            "login": {
+                "uuid": "c8c7241e-a6db-4304-8c20-55efc93d32d9",
+                "username": "beautifulfrog432",
+                "password": "bones",
+                "salt": "yZSobsGV",
+                "md5": "bf4853b80a80257be5855dce10298b2c",
+                "sha1": "21d632426346d301201fce7998eec007f8582b26",
+                "sha256": "a89d1e1c59d2a08439295ec9e3d99eba07a8632400afa91b141eef1af4576133"
+            },
+            "dob": {
+                "date": "1994-05-05T03:03:17.908Z",
+                "age": 30
+            },
+            "registered": {
+                "date": "2022-04-11T14:08:56.112Z",
+                "age": 2
+            },
+            "phone": "8282185436",
+            "cell": "8714031600",
+            "id": {
+                "name": "UIDAI",
+                "value": "962714716905"
+            },
+            "picture": {
+                "large": "https://randomuser.me/api/portraits/women/77.jpg",
+                "medium": "https://randomuser.me/api/portraits/med/women/77.jpg",
+                "thumbnail": "https://randomuser.me/api/portraits/thumb/women/77.jpg"
+            },
+            "nat": "IN"
+        }
+    ],
+    "info": {
+        "seed": "8976c4e97d7545b7",
+        "results": 1,
+        "page": 1,
+        "version": "1.4"
+    }
+}
